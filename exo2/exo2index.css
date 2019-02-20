@@ -1,0 +1,30 @@
+ul {
+    display:flex;
+    justify-content:space-between;
+    background-color:black;
+}
+li { 
+    list-style:none;
+    flex-grow:1;
+}
+.button-text{ 
+    display:flex;
+    flex-direction: column;
+}
+i{
+    font-size:30px;
+    padding:10px;
+}
+li:hover{
+    background-color:rgb(146, 89, 25);
+}
+
+.single-nav{
+
+    background-color:black;
+}
+a {
+    display: flex;
+    text-decoration:none;
+    color:white;
+}

@@ -1,0 +1,28 @@
+ul{
+    
+    display:flex;
+    position:center;
+}
+
+li{ 
+    display:flex;
+    flex-grow: 1;
+    text-align: center;
+    list-style:none;
+}
+
+a{  
+    padding:20px;
+    flex-grow:1;
+    color:white;
+    text-decoration:none;
+}
+
+li:hover{
+    background-color:beige;
+}
+
+.single-nav{
+
+    background-color:black;
+}

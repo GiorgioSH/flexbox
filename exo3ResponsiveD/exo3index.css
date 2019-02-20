@@ -1,0 +1,55 @@
+header{
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    text-align: center;
+    background-color:rgb(28, 205, 218); 
+    margin:0;
+    padding:0;
+}
+.div1{
+    display:flex;
+    margin-top:0%;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-left: 5px solid;
+    border-right: 5px solid;
+}
+H1{
+    margin:0;
+}
+aside{
+    background-color:rgba(168, 101, 138, 0.658); 
+    margin:0;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-left: 5px solid;
+    border-right: 5px solid;
+}
+footer{
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    text-align: center;
+    background-color:rgb(28, 205, 218); 
+    margin:0;
+}
+#ad{
+    background-color:rgba(168, 101, 138, 0.658); 
+    margin:0;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-left: 5px solid;
+    border-right: 5px solid;
+}
+section{
+    background-color:rgb(212, 155, 69);
+    margin:0;
+}
+//*body{
+    border-color:black;
+    border-right: solid 10px;
+    border-left: solid 10px;
+}*//

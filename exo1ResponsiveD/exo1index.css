@@ -1,0 +1,38 @@
+ul{
+    
+    display:flex;
+    position:center;
+}
+
+li{ 
+    display:flex;
+    flex-grow: 1;
+    text-align: center;
+    list-style:none;
+}
+
+a{  
+    padding:20px;
+    flex-grow:1;
+    color:white;
+    text-decoration:none;
+}
+
+li:hover{
+    background-color:beige;
+}
+
+.single-nav{
+
+    background-color:black;
+}
+
+@media (max-width:750px){ 
+    ul{ flex-direction : column 
+}
+}
+
+@media (min-width:1000px){ 
+    ul{ flex-direction : row 
+}
+}
